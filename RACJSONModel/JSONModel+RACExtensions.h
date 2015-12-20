@@ -6,7 +6,7 @@
 //
 
 #import <ReactiveCocoa/ReactiveCocoa.h>
-#import "JSONModel.h"
+#import <JSONModel/JSONModel.h>
 
 @interface JSONModel (RACExtensions)
 
